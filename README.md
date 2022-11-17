@@ -34,7 +34,7 @@ Nome e link do Dataset [Dados banheira](https://drive.google.com/file/d/15kELqVo
   - Multi layer Perceptron - Com *Keras*
   
  # Notebook 💻
-  - Banheira inteligente [![Open In Colab](https://drive.google.com/file/d/15kELqVoD_VzgMbJXcBcjBvY-MmrukHWh/view?usp=sharing)
+  - Banheira inteligente [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/15kELqVoD_VzgMbJXcBcjBvY-MmrukHWh/view?usp=sharing)
  
  # Como usar esse conteúdo❓
   - Precisa ter o dataset [Dados banheira](https://drive.google.com/file/d/15kELqVoD_VzgMbJXcBcjBvY-MmrukHWh/view?usp=sharing) 
