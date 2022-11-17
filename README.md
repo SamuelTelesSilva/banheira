@@ -1,4 +1,4 @@
-# Banheira inteligente
+# Banheira inteligente 🛁
 
 
 O constante crescimento da automação residencial e empresarial através dos dispositivos IoT em nosso cotidiano é cada vez mais comum com soluções que visam facilitar cada vez mais a interação entre o ser humano e a tecnologia. Podemos notar que hoje em dia temos soluções IoT para quase tudo, senão tudo em nosso cotidiano. Por exemplo segurança, lazer, entretenimento, etc. Esses micro controladores eletrônicos são capazes de capturar e interpretar o ambiente já os atuadores permitem a intervenção mecânica do ambiente.
