@@ -5,6 +5,7 @@ O constante crescimento da automação residencial e empresarial através dos di
 Desta maneira tornado se possível o desenvolvimento de aplicações encima de plataformas distintas, que irão comunicar-se entre si e formarão uma rede de dispositivos micro controladores em qualquer canto por meio da internet.
 Com este trabalho propomos adaptar uma solução com RNAs sobre um projeto já existente criado por MELO e JUNIOR (2015) que seria de uma banheira automatizada. Onde trabalharíamos através de informações passadas via JSON e coletadas através de uma biblioteca chamada webrest.h, portanto com esses dados JSON seremos capazes de realizarmos o treinamento da Rede Neural.
 
+JUNIOR, Ervin; MELO, Douglas. Aplicação Microcontrolada para Gerência Remota de Banheiras. 2015. Disponível em [Artigo](https://periodicos.univali.br/index.php/acotb/article/view/6990) 
 
 # Projeto 🔥
 Projeto apresentado ao Curso de Especialização Lato sensu de Inteligência Artificial e Aprendizado de Máquina da Universidade Nove de Julho.
